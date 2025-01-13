@@ -1,0 +1,48 @@
+
+nav {
+    background-color: #a2f4f4;
+}
+
+img {
+    max-width: 35px;
+}
+
+section {
+    background-color: rgb(203 208 213);
+}
+.color {
+    color: #8d3c8d;
+    font-size: 1rem;
+}
+
+.section-padding { 
+    padding: 5rem 0; 
+}
+
+.size {
+    font-size: 1.1rem;
+}
+
+.skill-bar { 
+    height: 10px; border-radius: 5px; 
+}
+.Javascript {
+    color: yellow;
+    size: 20px;
+}
+
+.project-card { 
+    transition: transform 0.3s ease; 
+}
+
+.project-card:hover { 
+    transform: translateY(-5px);
+}
+
+.nav-link { 
+    color: #333;
+}
+
+.nav-link.active { 
+    color: #000; font-weight: bold; 
+}
