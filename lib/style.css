@@ -35,6 +35,10 @@ section {
     transition: transform 0.3s ease; 
 }
 
+.card-img {
+    max-width: max-content;
+}
+
 .project-card:hover { 
     transform: translateY(-5px);
 }
